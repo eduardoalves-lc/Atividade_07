@@ -1,0 +1,3 @@
+https://github.com/eduardoalves-lc/Atividade_07
+
+Coloquei as imagens do Banco Firestore no Readme bem como doc do Google-Services.
